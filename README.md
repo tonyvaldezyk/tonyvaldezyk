@@ -9,7 +9,7 @@ Salut ! Je suis **Tony Valdez Yonke**, développeur IoT et systèmes embarqués 
 ### Langages de Programmation
 - **C, C++, Python (Django), Java (Spring), Go**
 - **HTML & CSS** (Bootstrap, Tailwind)
-- **JavaScript** (React, Node.js)
+- **JavaScript** (React, Node.js, express.js)
 - **PHP** (Symfony), **SQL**
 
 ### IoT et Systèmes Embarqués
@@ -36,14 +36,6 @@ Prototype destiné aux personnes malvoyantes, intégrant un système GPS et des 
 
 ### 🌐 [Application Web de Monitoring Médical](#)
 Développement d'une solution de suivi à distance pour équipements médicaux. *(HTML, CSS, JavaScript, PHP, MySQL)*
-
----
-
-## 🌟 Formation
-
-- **Mastère CTO & Tech Lead** *(2024-2026)* - HETIC, Montreuil
-- **Google UX Design Professional Certificate** *(2024-2025)*
-- **Ingénieur en Maintenance Biomédicale et Hospitalière** *(2017-2020)* - Université des Montagnes
 
 ---
 
