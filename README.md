@@ -21,24 +21,6 @@ Salut ! Je suis **Tony Valdez Yonke**, développeur IoT et systèmes embarqués 
 - **Autodesk Inventor, Fusion 360, Solidworks, Blender, Matlab**
 - Création de maquettes web et app avec **Figma** et **Adobe Creative Suite**
 
----
-
-## 🛠️ Projets
-
-### 🎮 [Développement d’un MMORPG](#)
-**Hackathon Novembre 2024** : Création d'un jeu massivement multijoueur avec implémentation d'un protocole de communication UDP. *(Unity, C#)*
-
-### 🚗 [Mini véhicule autonome](#)
-Prototype de véhicule à détection d'obstacles basé sur Arduino, capteurs et C++.
-
-### 🦯 [Canne intelligente](#)
-Prototype destiné aux personnes malvoyantes, intégrant un système GPS et des capteurs de proximité. *(Arduino, C++)*
-
-### 🌐 [Application Web de Monitoring Médical](#)
-Développement d'une solution de suivi à distance pour équipements médicaux. *(HTML, CSS, JavaScript, PHP, MySQL)*
-
----
-
 ## 📫 Contact
 
 - **LinkedIn** : [Tony Valdez Yonke](https://www.linkedin.com/in/tony-valdez-yonke-001a59225/)
