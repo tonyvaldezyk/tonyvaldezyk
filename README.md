@@ -6,16 +6,15 @@ Salut ! Je suis **Tony Valdez Yonke**, développeur IoT et systèmes embarqués 
 
 ## 💼 Compétences Techniques
 
-### Langages de Programmation
-- **C, C++, Python (Django), Java (Spring), Go**
-- **HTML & CSS** (Bootstrap, Tailwind)
-- **JavaScript** (React, Node.js, express.js)
-- **PHP** (Symfony), **SQL**
-
 ### IoT et Systèmes Embarqués
 - **Cartes et microcontrôleurs** : Arduino, ESP32, STM32, Raspberry Pi
 - **Prototypage et conception de circuits** : Conception de cartes électroniques avec Proteus, Fusion 360
 - **Capteurs et systèmes connectés** : Intégration dans des solutions embarquées
+
+### Langages de Programmation
+- **C, C++, Python (Django), Java (Spring), Go**
+- **HTML & CSS** (Bootstrap, Tailwind)
+- **JavaScript** (React, Node.js, express.js)
 
 ### Outils de Conception
 - **Autodesk Inventor, Fusion 360, Solidworks, Blender, Matlab**
