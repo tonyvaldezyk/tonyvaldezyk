@@ -11,6 +11,11 @@ Salut ! Je suis **Tony Valdez Yonke**
 - **Applications mobiles** (Flutter, Java, C++, C# )
 - **Conception IHM ( QT, Swing)**
 
+### Développement Web Back et Front End:
+- **API Rest & GraphQL**( Javascript, Python)
+- **Frameworks** (Typescript, React, Vue.js )
+- **MySQL, PostgreSQL, MariaDB**
+
 ### DevOps:
 - **Déploiement de pipeline CI/CD** (Terraform,  Kubernetes, Gitlab, Jenkins, Ansible)
 - **Conteneurisation Docker** 
@@ -23,11 +28,6 @@ Salut ! Je suis **Tony Valdez Yonke**
 - **Cartes et microcontrôleurs** : Arduino, ESP32, STM32, Raspberry Pi
 - **Prototypage et conception de circuits** : Conception de cartes électroniques avec Proteus, Fusion 360
 - **Capteurs et systèmes connectés** : Intégration dans des solutions embarquées
-
-### Développement Web Back et Front End:
-- **API Rest & GraphQL**( Javascript, Python)
-- **Frameworks** (Typescript, React, Vue.js )
-- **MySQL, PostgreSQL, MariaDB**
 
 ### Outils de Conception
 - **Autodesk Inventor, Fusion 360, Solidworks, Blender, Matlab**
