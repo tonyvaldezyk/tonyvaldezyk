@@ -1,7 +1,7 @@
 # 👋 Bienvenue sur mon GitHub !
 
 
-Salut ! Je suis **Tony Valdez Yonke**
+Salut ! Je suis **Tony Yonke**
 ---
 
 ## 💼 Compétences Techniques
